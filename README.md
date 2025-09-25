@@ -42,12 +42,12 @@ The dashboard is designed for **decision makers** in occupational health and saf
 
 ## 🎯 Dashboard Pages & Visuals
 
-### **1. Overview (Summary)**
+### **1. Overview**
 - **Cards:**
-  - `Total Work Accidents` → Blue (#1f77b4)  
-  - `Total Occupational Diseases` → Teal (#17becf)  
-  - `Total Fatalities (Accidents)` → Red (#d62728)  
-  - `Total Fatalities (Diseases)` → Orange (#ff7f0e)  
+  - `Total Work Accidents` 
+  - `Total Occupational Diseases`
+  - `Total Fatalities (Accidents)`
+  - `Total Fatalities (Diseases)` 
 - **Clustered Column Chart:** Work Accidents by Province (Male vs Female)
 
 ---
@@ -153,8 +153,8 @@ Run SQL queries in SQL Server Management Studio to load data.
 
 Run Python script to generate charts:
 
-bash
-نسخ الكود
+bash 
+
 python python/analysis_charts.py
 Open powerbi/dashboard.pbix in Power BI Desktop.
 
@@ -167,8 +167,5 @@ Create interactive web dashboard (Plotly Dash or Streamlit).
 
 ---
 
- ## ✍️ Author: *** Mohamed Emad Alhadi | Data Analyst ***
+ ## ✍️ Author: **Mohamed Emad Alhadi | Data Analyst**
 📧 Contact: mohamedemad24649@gmail.com
-
-yaml
-نسخ الكود
