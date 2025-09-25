@@ -145,27 +145,5 @@ Provide clear, visual insights into **workplace safety data** across provinces, 
 
 ---
 
-## 🚀 How to Run
-1. Clone repo:  
-   ```bash
-   git clone https://github.com/<your-username>/work-accidents-dashboard.git
-Run SQL queries in SQL Server Management Studio to load data.
-
-Run Python script to generate charts:
-
-bash 
-
-python python/analysis_charts.py
-Open powerbi/dashboard.pbix in Power BI Desktop.
-
-Apply filters (Year, Province) to interact with the dashboard.
-
-## 📌 Future Improvements
-Automate data refresh from SQL → Power BI Service.
-Add machine learning predictions for accident risk.
-Create interactive web dashboard (Plotly Dash or Streamlit).
-
----
-
  ## ✍️ Author: **Mohamed Emad Alhadi | Data Analyst**
 📧 Contact: mohamedemad24649@gmail.com
