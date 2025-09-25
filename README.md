@@ -145,5 +145,6 @@ Provide clear, visual insights into **workplace safety data** across provinces, 
 
 ---
 
- ## ✍️ Author: **Mohamed Emad Alhadi | Data Analyst**
+ ## ✍️ Author:
+ ***Mohamed Emad Alhadi | Data Analyst***
 📧 Contact: mohamedemad24649@gmail.com
